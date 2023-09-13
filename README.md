@@ -14,8 +14,10 @@
 
 - [ayushichoudhary-19/soulnect-mental-health-website](https://github.com/ayushichoudhary-19/soulnect-mental-health-website) - 💗 A Mental Health Web Application
 
-### 🔨 Check out my recent pull request
+### 🔨 Check out my recent pull requests
 - [Fixed Navbar Responsiveness](https://github.com/sarmadhamdani02/WebGames/pull/81) on [WebGames](https://github.com/sarmadhamdani02/WebGames)
+- [Added animated Number Counter for metrics on landing page](https://github.com/warmachine028/nike/pull/52) on [Warmachine028-Nike](https://github.com/warmachine028/nike)
+- [Fixed inconsistency in appearance of input field](https://github.com/warmachine028/nike/pull/51) on [Warmachine028-Nike](https://github.com/warmachine028/nike)
 
 ### 🛠️ Languages and Tools
 
